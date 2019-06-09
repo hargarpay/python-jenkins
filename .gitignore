@@ -1,0 +1,5 @@
+jenkins-url.py
+venv
+database/**/*.sqlite
+.env
+
